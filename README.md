@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Copy `.env.example` to `.env.local` and set your n8n webhook URLs (`RAG_PROD_URL`, `RAG_TEST_URL`).
+
 First, run the development server:
 
 ```bash
